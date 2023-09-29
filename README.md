@@ -7,13 +7,14 @@ OpenCore EFI for B450 Chipset Motherboard with AMD Ryzen 5 2600G Processor + Rad
 - CPU       : AMD Ryzen 5 2600G with Radeon Graphics
 - RAM       : 4 x 8GB DDR4 3000Mhz
 - Storage   : 500GB NVME SSD
-- iGPU      : MSI Mech Radeon™ RX 6600 XT Dedicated Graphics
+- dGPU      : MSI Mech Radeon™ RX 6600 XT Dedicated Graphics
+- Wifi      : Fenvi FV-T919 (BCM4360) (Requires OCLP)
 - Audio     : Realtek ALC892
 - Boot Mode : UEFI
 - Bootloader : OpenCore 0.9.5
-- OS : macOS Ventura 13.4 + Ubuntu 22.04.3 LTS
+- OS : macOS Sonoma 14.0 + Ubuntu 22.04.3 LTS
 
-## Whats Work?
+## What Works?
 
 - QE/CI Graphics of RX 6600 XT + DRM
 - CPU Power Management
@@ -22,7 +23,12 @@ OpenCore EFI for B450 Chipset Motherboard with AMD Ryzen 5 2600G Processor + Rad
 - HDMI
 - Audio (Rear & Front)
 - TRIM Support for SSD
+- Airdrop
 - Etc
+
+## WIP
+- Camera Continuity
+
 
 ## Tutorial
 - From Zero Tutorial : https://dortania.github.io/OpenCore-Install-Guide/
@@ -37,3 +43,5 @@ All kinds of errors and kernel panics, beyond my responsibility.
 ## Results
 [![Ventura_13.4.jpg](https://github.com/klabit87/Personal_Ryzentosh/blob/main/screenshots/Ventura_13.4.jpg)](https://github.com/klabit87/Personal_Ryzentosh/blob/main/screenshots/Ventura_13.4.jpg)
 
+
+[![Sonoma_14.0.jpg](https://github.com/klabit87/Personal_Ryzentosh/blob/main/screenshots/Sonoma_14.0.jpg)](https://github.com/klabit87/Personal_Ryzentosh/blob/main/screenshots/Sonoma_14.0.jpg)
