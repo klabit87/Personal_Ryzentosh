@@ -41,7 +41,5 @@ Tutorial on "USB Fixes" related to the UTBMap.kext and SSDT-SLEEP.aml files. Ple
 All kinds of errors and kernel panics, beyond my responsibility.
 
 ## Results
-[![Ventura_13.4.jpg](https://github.com/klabit87/Personal_Ryzentosh/blob/main/screenshots/Ventura_13.4.jpg)](https://github.com/klabit87/Personal_Ryzentosh/blob/main/screenshots/Ventura_13.4.jpg)
-
 
 [![Sonoma_14.0.jpg](https://github.com/klabit87/Personal_Ryzentosh/blob/main/screenshots/Sonoma_14.0.jpg)](https://github.com/klabit87/Personal_Ryzentosh/blob/main/screenshots/Sonoma_14.0.jpg)
